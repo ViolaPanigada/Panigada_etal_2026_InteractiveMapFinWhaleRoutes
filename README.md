@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 ## Interactive Map – *Fin Whale Migration Routes from the North-Western Mediterranean Sea to the North Atlantic Ocean: New Feeding Opportunities?*
 
 This repository hosts the interactive Leaflet map accompanying the
