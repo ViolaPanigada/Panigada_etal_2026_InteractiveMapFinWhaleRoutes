@@ -19,30 +19,30 @@ paper:
     0009-0003-0719-7790](https://orcid.org/0009-0003-0719-7790) – Duke
     University Marine Lab, Beaufort, USA;\
     Tethys Research Institute, Milano, Italy
--   **Blanca Feliu-Tena** [ORCID: 0000-0003-5210-5875](#0) – Instituto
+-   **Blanca Feliu-Tena** [ORCID: 0000-0003-5210-5875](https://orcid.org/0000-0003-0043-5605) – Instituto
     Español de Oceanografía (IEO-CSIC), C.O. Murcia, C/el Varadero 1, Lo
     Pagan, 30740 Murcia, Spain; Instituto de Investigación para la
     Gestión Integrada de Zonas Costeras,Universitat Politècnica de
     València, C/ Paranimf 1, Gandia, 46730 Spain
--   **Eduardo J. Belda** [ORCID: 0000-0003-1995-1271](#0) – Instituto de
+-   **Eduardo J. Belda** [ORCID: 0000-0003-1995-1271](https://orcid.org/0000-0003-1995-1271) – Instituto de
     Investigación para la Gestión Integrada de Zonas
     Costeras,Universitat Politècnica de València, C/ Paranimf 1, Gandia,
     46730 Spain
 -   **Eduard Degollada** [ORCID:
-    0009-0007-0840-5714](https://orcid.org/0000-0003-2109-5224) –
+    0009-0007-0840-5714](https://orcid.org/0009-0007-0840-5714) –
     EDMAKTUB Association, Caldes d’Estrac, Spain
--   **Victor Gallego** [ORCID: 0000-0002-9733-0625](#0) – Instituto
+-   **Victor Gallego** [ORCID: 0000-0002-9733-0625](https://orcid.org/0000-0002-9733-0625) – Instituto
     Universitario de Investigación de Ciencia y Tecnología Animal,
     Universitat Politècnica de València, Camino de Vera s/n 46022
     Valencia, Spain
--   **Douglas P. Nowacek** [ORCID: 0000-0002-8137-1836](#0) – Duke
+-   **Douglas P. Nowacek** [ORCID: 0000-0002-8137-1836](https://orcid.org/0000-0002-8137-1836) – Duke
     University Marine Lab and Pratt School of Engineering, Duke
     University, NC, USA
 -   **Pablo Santonja** - Instituto de Investigación para la Gestión
     Integrada de Zonas Costeras,Universitat Politècnica de València, C/
     Paranimf 1, Gandia, 46730 Spain
 -   **Beatriu Tort** [ORCID:
-    0009-0004-7690-1937](https://orcid.org/0000-0003-2109-5224) -
+    0009-0004-7690-1937](https://orcid.org/0009-0004-7690-1937) -
     EDMAKTUB Association, Caldes d’Estrac, Spain
 -   **Simone Panigada** [ORCID:
     0000-0003-0856-1227](https://orcid.org/0000-0003-0856-1227) – Tethys
@@ -108,7 +108,7 @@ If referencing this resource, please cite as:
 > > Fin Whale Migration Routes from the North-Western Mediterranean Sea
 > > to the North Atlantic Ocean: New Feeding Opportunities? *Submitted.*
 >
-> Interactive map available at: https://github.com/ViolaPanigada/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/
+> Interactive map available at: [https://violapanigada.github.io/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/](https://github.com/ViolaPanigada/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/){.uri}
 
 ------------------------------------------------------------------------
 
