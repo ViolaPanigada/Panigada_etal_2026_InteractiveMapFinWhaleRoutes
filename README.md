@@ -15,7 +15,7 @@ paper:
 > the North Atlantic Ocean: New Feeding Opportunities? *Submitted.*
 
 🔗 **View the interactive map:**
-[https://violapanigada.github.io/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/](https://ninopierantonio.github.io/Panigada_etal_JCRM_InteractiveMap/){.uri}
+[https://violapanigada.github.io/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/](https://github.com/ViolaPanigada/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/){.uri}
 
 ------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ If referencing this resource, please cite as:
 > > Fin Whale Migration Routes from the North-Western Mediterranean Sea
 > > to the North Atlantic Ocean: New Feeding Opportunities? *Submitted.*
 >
-> Interactive map available at:
+> Interactive map available at: https://github.com/ViolaPanigada/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/
 
 ------------------------------------------------------------------------
 
