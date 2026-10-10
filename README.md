@@ -3,9 +3,8 @@
 This repository hosts the interactive Leaflet map accompanying the
 paper:
 
-> Panigada, V., Feliu-Tena, B., Belda, E. J., Degollada, E., Gallego,
-> V., Nowacek, D. P., Santonja, P., Tort, B, and Panigada, S. (2026).
-> Fin whale movement patterns from the Mediterranean sea reveal summer habitat use in the North Atlantic and potential feeding behavior. *Scientific Reports* doi: https://doi.org/10.1038/s41598-026-74862-0
+Panigada, V., Feliu-Tena, B., Belda, E.J. et al. Fin whale movement patterns from the Mediterranean sea reveal summer habitat use in the North Atlantic and potential feeding behavior. Sci Rep (2026). https://doi.org/10.1038/s41598-026-74862-0
+
 
 🔗 **View the interactive map:**
 [https://violapanigada.github.io/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/](https://violapanigada.github.io/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/)
@@ -15,9 +14,7 @@ paper:
 ## Authors and Affiliations
 
 -   **Viola Panigada** [ORCID:
-    0009-0003-0719-7790](https://orcid.org/0009-0003-0719-7790) – Duke
-    University Marine Lab, Beaufort, USA;\
-    Tethys Research Institute, Milano, Italy
+    0009-0003-0719-7790](https://orcid.org/0009-0003-0719-7790) – Duke University Marine Laboratory, Nicholas School of the Environment, Duke University, NC, Beaufort, USA; Tethys Research Institute, Viale G.B. Gadio 2, , 20121, Milano, Italy
 -   **Blanca Feliu-Tena** [ORCID: 0000-0003-5210-5875](https://orcid.org/0000-0003-0043-5605) – Instituto
     Español de Oceanografía (IEO-CSIC), C.O. Murcia, C/el Varadero 1, Lo
     Pagan, 30740 Murcia, Spain; Instituto de Investigación para la
@@ -34,9 +31,8 @@ paper:
     Universitario de Investigación de Ciencia y Tecnología Animal,
     Universitat Politècnica de València, Camino de Vera s/n 46022
     Valencia, Spain
--   **Douglas P. Nowacek** [ORCID: 0000-0002-8137-1836](https://orcid.org/0000-0002-8137-1836) – Duke
-    University Marine Lab and Pratt School of Engineering, Duke
-    University, NC, USA
+-   **Douglas P. Nowacek** [ORCID: 0000-0002-8137-1836](https://orcid.org/0000-0002-8137-1836) – Duke University Marine Laboratory, Nicholas School of the Environment, Duke University, NC, Beaufort, USA
+Pratt School of Engineering, Duke University, Durham, NC, USA
 -   **Pablo Santonja** ORCID: 0009-0006-6214-583X - Instituto de Investigación para la Gestión
     Integrada de Zonas Costeras,Universitat Politècnica de València, C/
     Paranimf 1, Gandia, 46730 Spain
@@ -102,9 +98,8 @@ with conservation and management areas.
 
 If referencing this resource, please cite as:
 
-> Panigada, V., Feliu-Tena, B., Belda, E. J., Degollada, E., Gallego,
-> V., Nowacek, D. P., Santonja, P., Tort, B, and Panigada, S. (2026).
-> Fin whale movement patterns from the Mediterranean sea reveal summer habitat use in the North Atlantic and potential feeding behavior. *Scientific Reports* doi: https://doi.org/10.1038/s41598-026-74862-0
+Panigada, V., Feliu-Tena, B., Belda, E.J. et al. Fin whale movement patterns from the Mediterranean sea reveal summer habitat use in the North Atlantic and potential feeding behavior. Sci Rep (2026). https://doi.org/10.1038/s41598-026-74862-0
+
 >
 > Interactive map available at: [https://violapanigada.github.io/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/](https://violapanigada.github.io/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/)
 
