@@ -1,12 +1,11 @@
-## Interactive Map – *Fin Whale Migration Routes from the North-Western Mediterranean Sea to the North Atlantic Ocean: New Feeding Opportunities?*
+## Interactive Map – *Fin whale movement patterns from the Mediterranean sea reveal summer habitat use in the North Atlantic and potential feeding behavior*
 
 This repository hosts the interactive Leaflet map accompanying the
 paper:
 
 > Panigada, V., Feliu-Tena, B., Belda, E. J., Degollada, E., Gallego,
 > V., Nowacek, D. P., Santonja, P., Tort, B, and Panigada, S. (2026).
-> Fin Whale Migration Routes from the North-Western Mediterranean Sea to
-> the North Atlantic Ocean: New Feeding Opportunities? *Submitted.*
+> Fin whale movement patterns from the Mediterranean sea reveal summer habitat use in the North Atlantic and potential feeding behavior. *Scientific Reports* doi: https://doi.org/10.1038/s41598-026-74862-0
 
 🔗 **View the interactive map:**
 [https://violapanigada.github.io/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/](https://violapanigada.github.io/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/)
@@ -103,10 +102,9 @@ with conservation and management areas.
 
 If referencing this resource, please cite as:
 
-> > Panigada, V., Feliu-Tena, B., Belda, E. J., Degollada, E., Gallego,
-> > V., Nowacek, D. P., Santonja, P., Tort, B, and Panigada, S. (2026).
-> > Fin Whale Migration Routes from the North-Western Mediterranean Sea
-> > to the North Atlantic Ocean: New Feeding Opportunities? *Submitted.*
+> Panigada, V., Feliu-Tena, B., Belda, E. J., Degollada, E., Gallego,
+> V., Nowacek, D. P., Santonja, P., Tort, B, and Panigada, S. (2026).
+> Fin whale movement patterns from the Mediterranean sea reveal summer habitat use in the North Atlantic and potential feeding behavior. *Scientific Reports* doi: https://doi.org/10.1038/s41598-026-74862-0
 >
 > Interactive map available at: [https://violapanigada.github.io/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/](https://violapanigada.github.io/Panigada_etal_2026_InteractiveMapFinWhaleRoutes/)
 
